@@ -170,6 +170,7 @@
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLMCXHnjXnTnto1pZVvH7rbZ9W5neZ7Yhc) - Gaurav Sen
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u) - WilliamFiset
 * [Dynamic Programming Playlist \| Interview Questions \| Recursion \| Tabulation \| Striver \| C++ \| Java \| DSA \| Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY) - take U forward
+* [ECS 36C: Data Structures, Algorithms, and Programming](https://lupteach.gitlab.io/courses/ucd-ecs36c/online/) - Joël Porquet-Lupine
 * [Graph Series by Striver \| C++ \| Java \| Interview Centric \| Algorithms \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn) - take U forward
 * [Graph Theory playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
@@ -212,6 +213,7 @@
 * [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843) (Udacity)
 * [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836) (Udacity)
 * [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834) (Udacity)
+* [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) - Google Developers Training
 * [Android Developer Fundamentals (Version 2) — Codelab](https://developer.android.com/courses/fundamentals-training/toc-v2)
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
 * [Android Development Tutorials](https://youtube.com/playlist?list=PLqM7alHXFySF_Hb1GtyvCX44dBniJ5sNy) -  GeeksforGeeks
@@ -226,10 +228,10 @@
 * [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) (Udacity)
 * [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867) (Udacity)
 * [Jetpack Compose](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC) - Philipp Lackner
+* [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) - Google Developers Training
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) (Udacity)
 * [Learn Android Application Development for Beginners](https://www.udemy.com/course/learn-android-application-development-y/) - Johan Jurrius, ProgramMe Programming (Udemy)
 * [Learn Android in 9 Hours](https://www.youtube.com/watch?v=aS__9RbCyHg) (Edureka)
-* [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 * [Material design](https://material.io/guidelines/)
 * [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) (Udacity)
 * [MVVM Image Search App with Architecture Components & Retrofit](https://www.youtube.com/playlist?list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED) - Florian Walther ( Coding in flow )
@@ -270,7 +272,6 @@
 ### Assembly
 
 * [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - LiveOverflow
-* [C Programming and Assembly Language](https://nptel.ac.in/courses/106/106/106106210/) - Janakiraman Viraraghavan, IIT Madras (NPTEL)
 * [Introduction to Assembly Programming with ARM](https://www.udemy.com/course/introduction-to-assembly-programming-with-arm/) - Scott Cosentino (Udemy)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html) - Matt Briggs (OpenSecurityTraining)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html) - Xeno Kovah (OpenSecurityTraining)
@@ -308,6 +309,7 @@
 
 ### Blockchain
 
+* [BerkeleyX: Blockchain Technology](https://www.edx.org/learn/blockchain/university-of-california-berkeley-blockchain-technology) - Rustie Lin and Nadir Akhtar
 * [Blockchain Developer Tutorials](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id) - Gregory McCubbin (Dapp University)
 * [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) - CognitiveClass.ai
 * [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases) - ConsenSys Academy (Coursera)
@@ -317,6 +319,7 @@
 * [Build an IoT Blockchain Network for a Supply Chain](https://cognitiveclass.ai/courses/blockchain-iot-node-red-food-network) - CognitiveClass.ai
 * [Build and Deploy Your First Decentralized App with Etherem](https://www.udemy.com/course/your-first-decentralized-app/) - Gary Simon (Udemy)
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
+* [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum) - Alchemy University
 * [Learn Blockchain](https://www.youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9) - Roomyan
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
 
@@ -354,7 +357,6 @@
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 * [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
-* [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
 
 
 ### <a id="cpp"></a>C++
@@ -533,9 +535,12 @@
 * [15-721 Advanced Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) - CMU Database Group
 * [CMU Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - CMU Database Group
 * [Database Design and Management](https://www.udemy.com/course/database-design-and-management) - Visual Paradigm (Udemy)
+* [Database Management System \| CS & IT \| GATE 2024](https://www.youtube.com/playlist?list=PLPvaSRcEQh4kfVIyezAQu9Mvj5FBk_OEN) - Gate Wallah English
+* [Database Management Systems](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU) - Partha Pratim Das (IIT Madras B.S. Degree Programme)
 * [Database Management Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ) - Neso Academy
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE) - Professor Immanuel Trummer, freeCodeCamp.org
+* [DBMS for GATE Exams](https://www.youtube.com/playlist?list=PLWPirh4EWFpGrpcMfZ6UcdI786QdtSxV8) - Tutorialspoint
 * [DBMS Placement Series](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp by Babbar
 * [DML Server Administration](https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised) (Alison)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
@@ -562,6 +567,7 @@
 * [Learn SQL](https://popsql.com/learn-sql) - PopSQL
 * [Learn SQL](https://www.sololearn.com/learning/1060) - *registration required*
 * [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql) - Programiz
+* [MySQL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl) - Krish Naik
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) - Moshfegh Hamedani (Programming with Mosh)
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
 * [SQL NPTEL](https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR)
@@ -650,6 +656,7 @@
 * [Complete Docker Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=RqTEHSBrYFw) - DevOps Directive
 * [Deploying Containerized Applications Technical Overview](https://www.udemy.com/course/deploying-containerized-applications-technical-overview) - Red Hat
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
+* [Docker and Kubernetes Complete Tutorial](https://www.youtube.com/playlist?list=PL0hSJrxggIQoKLETBSmgbbvE4FO_eEgoB) - Analytics Excellence
 * [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) - CognitiveClass.ai
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI) - Programming with Mosh!
 * [Docker Tutorial for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - Thenewboston
@@ -675,6 +682,7 @@
 
 ### Flutter
 
+* [Basic Development With Flutter](https://10pearlsuniversity.org/courses/basic-development-with-flutter/) - Muhammad Noman
 * [Build Apps with Flutter](https://developers.google.com/learn/pathways/intro-to-flutter) - Google for Developers
 * [Flutter & Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - The Net Ninja
 * [Flutter Course for Beginners - 37 hour](https://www.youtube.com/watch?v=VPvVD8t02U8) - freeCodeCamp.org
@@ -686,6 +694,7 @@
 * [Flutter Tutorial for Beginners](https://www.solutelabs.com/blog/flutter-tutorial-for-beginners-step-by-step-guide) - Solute Labs
 * [Free Flutter Animations Course](https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - The Net Ninja
 * [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT) - Vandad Nahavandipoor
+* [Getting Started With Flutter](https://10pearlsuniversity.org/courses/getting-started-with-flutter/) - Muhammad Noman
 
 
 ### Fortran
@@ -816,6 +825,8 @@
 * [HTML Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=qHB2jUvAlGo) - ProgrammingWithHarry
 * [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) - Stone River eLearning (Udemy)
 * [Learn CSS](https://www.codecademy.com/learn/learn-css) - Codecademy
+* [Learn CSS Grid](https://scrimba.com/learn/cssgrid) - Per Harald Borgen (Scrimba)
+* [Learn Flexbox](https://scrimba.com/learn/flexbox) - Per Harald Borgen (Scrimba)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
@@ -905,7 +916,6 @@
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
-* [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Debasis Samanta (NPTEL)
 * [Servlet & JSP Tutorial Full Course](https://www.youtube.com/watch?v=OuBUUkQfBYM) - Telusko (Navin Reddy)
 * [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
@@ -1045,7 +1055,6 @@
 * [Complete React course for beginner](https://youtube.com/playlist?list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq) - Hitesh Choudhary
 * [Frontend Armory: React Fundamentals](https://frontarm.com/courses/react-fundamentals/) - James K. Nelson
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
-* [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
 * [Full Stack with React and Appwrite](https://egghead.io/playlists/full-stack-with-react-and-appwrite-e1e46f61) - Colby Fayock (Egghead.io)
 * [Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react) - Full Stack open
 * [Learn React + Redux](https://www.sololearn.com/learning/1097) - *registration required*
@@ -1119,6 +1128,7 @@
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
 * [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)
+* [Learn TypeScript](https://scrimba.com/learn/typescript) - Ania Kubow (Scrimba)
 * [TypeScript Course for Beginners- Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs) - Academind
 * [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 * [TypeScript Tutorial for Beginners - 2022](https://www.youtube.com/watch?v=d56mG7DezGs) - Programming with Mosh
@@ -1241,6 +1251,8 @@
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Mathematics for Machine Learning - Multivariate Calclus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
+* [Python Machine Learning and AI Mega Course - Learn 4 Different Areas of ML & AI](https://www.youtube.com/watch?v=WFr2WgN9_xE) - Tech With Tim (Tim Ruscica)
+* [Python Machine Learning Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) - Tech With Tim (Tim Ruscica)
 * [PyTorch tutorials](https://pytorch.org/tutorials) - PyTorch.org
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -1308,6 +1320,10 @@
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
 * [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about)
+* [OCAML Data Structures Tutorial](https://www.youtube.com/playlist?list=PLea0WJq13cnA1622rtoEhd911spMDRvWh) - Noureddin Sadawi
+* [OCaml Playlist](https://www.youtube.com/playlist?list=PLKO_ZowsIOu7o3iQmS3InxLKd0L5-zyqo) - OCamlWorkshops
+* [OCaml Programming: Correct + Efficient + Beautiful](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - Michael Ryan Clarkson
+* [OCAML Tutorial](https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1) - Noureddin Sadawi
 
 
 ### Operating Systems
@@ -1399,7 +1415,6 @@
 * [Practical Python: An Immersive Python Course](https://practical.learnpython.dev) - Nina Zakharenko
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
 * [Problem Solving, Python Programming, and Video Games](https://www.coursera.org/learn/problem-solving-programming-video-games) - Duane Szafron, Paul Lu (Coursera)
-* [Programming, Data Structures And Algorithms Using Python](https://nptel.ac.in/courses/106/106/106106145/) - Madhavan Mukund (NPTEL)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python 101 – Introduction to Programming](https://www.tutorialspoint.com/python_101_andndash_introduction_to_programming/index.asp) - Zenva (Tutorials Point)
 * [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
@@ -1413,6 +1428,7 @@
 * [Python for Beginners (Full Course)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) - Telusko
 * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - Joseph Santarcangelo (Coursera)
 * [Python for Everybody](https://www.py4e.com/lessons) (Coursera Reading Materials with YouTube Videos)
+* [Python for Hackers FULL Course \| Bug Bounty & Ethical Hacking](https://www.youtube.com/playlist?list=PLBfoYdk-WAlzfRFHRKAmA7Vw2svoGqfb5) - PhD Security
 * [Python for OSINT. 21 day course for beginners](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf) - cyb_detective (PDF)
 * [Python for Programmers](https://www.codecademy.com/learn/python-for-programmers) - Codecademy
 * [Python from Scratch](https://open.cs.uwaterloo.ca/python-from-scratch/) - Centre for Education in Math and Computing (University of Waterloo)
@@ -1425,7 +1441,7 @@
 * [Python Programming Essentials](https://www.coursera.org/learn/python-programming) - Scott Rixner, Joe Warren (Coursera)
 * [Python Programming From Scratch With Practicals](https://www.tutorialspoint.com/python_programming_from_scratch_with_practicals/index.asp) - Sundeep Saradhi Kanthety (Tutorials Point)
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) (Geeks for Geeks)
-* [Python Programming MOOC 2022](https://programming-22.mooc.fi) - University of Helsinki
+* [Python Programming MOOC 2023](https://programming-23.mooc.fi) - University of Helsinki
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) - Tech With Tim
 * [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Moshfegh Hamedani (Programming with Mosh)
@@ -1475,6 +1491,7 @@
 
 ### R
 
+* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) - DataCamp
 * [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/) - R-Tutorials Training (Udemy)
 * [R Programming](https://www.coursera.org/course/rprog)
 * [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - Barton Poulson (freeCodeCamp)
@@ -1667,6 +1684,7 @@
 * [React Fundamentals - The Complete Guide For Beginners](https://www.udemy.com/course/react-fundamentals-the-complete-guide-for-beginners/) - Kerim Abdelmouiz (Udemy)
 * [The GraphQL Apollo (with ReactJS, NodeJS and MongoDB)](https://www.udemy.com/course/the-new-graphql-apollo-course-2020) - Mohd. Raqif Warsi (Udemy)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
+* [Web Accessibility – What It Is and How to Design for It?](https://www.hostinger.in/tutorials/web-accessibility) - Hostinger Tutorials
 * [Web Basics](https://open.cs.uwaterloo.ca/web-basics/) - Centre for Education in Math and Computing (University of Waterloo)
 * [Web Development Course](https://syllabus.migracode.org/courses/introduction-3) - MigraCode Barcelona
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
@@ -1710,3 +1728,4 @@
 ### YAML
 
 * [Complete YAML Course - Beginner to Advanced for DevOps and more!](https://www.youtube.com/watch?v=IA90BTozdow) - Kunal Kushwaha
+

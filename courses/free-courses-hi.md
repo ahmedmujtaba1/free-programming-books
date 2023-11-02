@@ -81,6 +81,7 @@
 * [Data Structures and Algorithms for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy) - Gate CSE lectures by Amit Khurana
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Design And Analysis Of Algorithms](https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
+* [DS & Algorithms Course Using Javascript](https://www.youtube.com/playlist?list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx) - Technical Suneja
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
 * [Dynamic Programming Workshop](https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL) - Vivek Gupta
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
@@ -133,7 +134,9 @@
 
 ### Artificial Intelligence
 
+* [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
+* [Playlist to Artificial Intelligence ](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
 
 
 ### Assembly
@@ -157,6 +160,7 @@
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLRlT7xBRpp9MiMN25XJjUVz01rGFQohq2) - Innovate India
 * [Complete Blockchain Development Course for Beginners in Hindi](https://www.youtube.com/watch?v=RkYVVC2vXho) - web3Mantra
 * [Ethereum](https://www.youtube.com/playlist?list=PL-Jc9J83PIiE3QA0h3I6HDYNXejdPFKFN) - Pepcoding
+* [Playlist to Blockchain](https://www.youtube.com/playlist?list=PLPIwNooIb9vgfXs-QkRYqqZbDXX-yLf59) - Perfect Computer Engineer
 * [Solidity ^0.8 | Blockchain | In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding
 
 
@@ -335,11 +339,14 @@
 
 * [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&t=7s) - Kunal Kushwaha
 * [Complete Git and Github Tutorials for Beginners](https://www.youtube.com/watch?v=Ez8F0nW6S-w) - Apna College
+* [Complete Git and GitHub Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLzdlNxYnNoafZq1AKcqiGvj0gkzrjmgq7) - Code House
 * [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
+* [Complete Git/GitHub Tutorials In Hindi 2021](https://www.youtube.com/playlist?list=PLoxQvXKPyCeX9__PPTu2M2oeY2QJt-3JB) - Vashishth Muni Singh
 * [Git & Github](https://youtube.com/playlist?list=PL5P8NPoF-nn8LFPLjJemBTVI_KsLo0VC1&si=U94-O5hr4Im0hI85) - Rahul Singh
 * [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
 * [Git & GitHub Tutorial in Hindi](https://www.youtube.com/watch?v=NR_A2gCxaLE) - Edureka! Hindi
 * [Git and Github | Complete हिंदी में (With Examples)](https://www.youtube.com/watch?v=zGq7T9gZH2k) - Knowledge Gate
+* [Git Complete Tutorials for Beginners in Hindi (A to Z)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdIVmcu5nfgE68jANQetnOX) - WsCube Tech
 * [Github \| All about Git and GitHub](https://www.youtube.com/watch?v=77b2lVHHZqI) - Anuj Bhaiya
 * [GitHub Tutorial in Hindi](https://youtube.com/playlist?list=PLVdoaEL574VBxxcGQmTjxS-JoP5rKV8Wi) - Be A Programmar
 * [GitHub with Visual Studio (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc) - Rajesh Kumar, Geeky Shows
@@ -365,6 +372,7 @@
 * [HTML Tutorial in Hindi \| Complete HTML Course For Beginners to Advanced](https://www.youtube.com/watch?v=QXPWs00RD3A) - Vishwajeet Kumar (Tech Gun)
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 * [Web Development Tutorials for Beginners in Hindi: HTML, CSS, JavaScript and more](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - CodeWithHarry
+* [Website Development Course in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2jmYb2TQGYgBYp0xGwj9V1) - Thapa Technical
 
 
 #### Bootstrap
@@ -634,6 +642,7 @@
 * [Intermediate/Advanced python Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiJWQ7VhY712fuimEpQZYp4) - CodeWithHarry
 * [Python](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Computer Gyan Guruji
 * [Python For Beginners](https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9) - Technical Sagar
+* [Python for Data Science for Absolute Beginners (Full Course)](https://www.youtube.com/playlist?list=PL1gztxnUtwNfnR0jYniFM5E6HwcQMnFmx) - Data is Good
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
 * [Python Tutorial For Beginners \| Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
 * [Python Tutorial For Beginners in (Hindi)](https://www.youtube.com/playlist?list=PLf0LpPWikpPe5gc6fT9wDj3Y6e97z6ZD_) - DataFlair Hindi

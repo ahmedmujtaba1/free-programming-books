@@ -247,6 +247,7 @@
 * [Android Development with Kotlin - Bangla](https://www.youtube.com/playlist?list=PLdHSoHQhVWlOmjBoSXSdJl3CrqBOKIrLp) - MKH Russell
 * [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
 * [Kotlin For Android - Bangla](https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr) - Touhid Apps!
+* [Kotlin Programming Language Basics in Bangla](https://www.youtube.com/playlist?list=PLYSlHgBmbWcurc9BBThq0WdcESbpEymF1) - Bonny Ahmad
 
 
 ### MongoDB
@@ -320,6 +321,7 @@
 ### Shell scripting
 
 * [Linux Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p) - Atiq Hasan Zubu
+* [Shell Scripting Tutorial in Bangla](https://www.youtube.com/playlist?list=PLuDISCShhAlxIduQrBqee-dlCAQTygm4l) - Mohammad Shakirul Islam
 
 
 ### Swift
